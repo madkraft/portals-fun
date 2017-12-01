@@ -1,0 +1,7 @@
+:host {
+  height: 50px;
+  background-color: pink;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
